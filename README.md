@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>Hello, I am Juliana!</h2>
+  <h2>Hi, I am Juliana!</h2>
 </p>
 
 - 🔭 Currently I'm a computer science master student and I'm working with research at [Linc](https://github.com/linc-ufpa-br)
