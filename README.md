@@ -3,8 +3,7 @@
 </p>
 
 - 🔭 Currently I'm a computer science master student and I'm working with research at [Linc](https://github.com/linc-ufpa-br)
-- 🌱 I’m currently learning Machine Learning
-- 📝 You can read some of my articles at [Medium](https://medium.com/@juliana-auzier)
+- 🌱 I’m currently studying Machine Learning
 - 📫 Contact me by **juliana.auzier.s@gmail.com**
 - 📄 You can know more about me at [LinkedIn](https://www.linkedin.com/in/juliana-auzier/)
 - ⚡ Trivia about me: **I like some games, travell and take places pictures**
