@@ -2,7 +2,7 @@
   <h2>Hi, I am Juliana!</h2>
 </p>
 
-- 🔭 Currently I'm a computer science master student and I'm working with research at [Linc](https://github.com/linc-ufpa-br)
+- 🔭 Currently I'm Master's Degree student and I'm working with research at [Linc](https://github.com/linc-ufpa-br)
 - 🌱 I’m currently studying Machine Learning
 - 📫 Contact me by **juliana.auzier.s@gmail.com**
 - 📄 You can know more about me at [LinkedIn](https://www.linkedin.com/in/juliana-auzier/)
