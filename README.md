@@ -6,7 +6,7 @@
 - 🌱 I’m currently studying Machine Learning
 - 📫 Contact me by **juliana.auzier.s@gmail.com**
 - 📄 You can know more about me at [LinkedIn](https://www.linkedin.com/in/juliana-auzier/)
-- ⚡ Trivia about me: **I like some games, travell and take places pictures**
+- ⚡ Trivia about me: **I like some games, travell and take nature pictures**
 - Skills: I'm self-taught, so I'm always learning; I like solve problems and work in a team
 
 <!--details>
