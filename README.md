@@ -6,7 +6,7 @@
 - 🌱 I’m currently studying Machine Learning and Deep Learning
 - 📫 Contact me by **juliana.auzier.s@gmail.com**
 - 📄 You can know more about me at [LinkedIn](https://www.linkedin.com/in/juliana-auzier/)
-- ⚡ Trivia about me: **I like some games, watch series, travel and take nature pictures**
+
 
 <!--details>
   <summary><b>🛠️ Some languages and tools I use:</b></summary>
