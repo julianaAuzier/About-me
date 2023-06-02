@@ -2,11 +2,11 @@
   <h2>Hi, I am Juliana!</h2>
 </p>
 
-- 🔭 Currently I'm Master's Degree student and I'm working with research at [Linc](https://github.com/linc-ufpa-br)
-- 🌱 I’m currently studying Machine Learning
+- 🔭 Currently I'm Master's Degree student
+- 🌱 I’m currently studying Machine Learning and Deep Learning
 - 📫 Contact me by **juliana.auzier.s@gmail.com**
 - 📄 You can know more about me at [LinkedIn](https://www.linkedin.com/in/juliana-auzier/)
-- ⚡ Trivia about me: **I like some games, travell and take nature pictures**
+- ⚡ Trivia about me: **I like some games, watch series, travel and take nature pictures**
 
 <!--details>
   <summary><b>🛠️ Some languages and tools I use:</b></summary>
@@ -15,13 +15,13 @@
 </details-->
 
 #### 📕 Check out some of my articles:
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START >
 - [Aplicações de Expressões Regulares - Máscaras de Validação e Reconhecimento de Arranjos Familiares](https://github.com/julianaAuzier/teoria-da-computacao/blob/main/Aplicacoes_de_Expressoes_Regulares__Mascaras_de_Validacao_e_Reconhecimento_de_Arranjos_Familiares%20(3).pdf)
 - [Estilizando dataframes com Pandas](https://juliana-auzier.medium.com/estilizando-dataframes-com-pandas-15bcd8e5815f)
 - [Minimização de funcão utilizando Random Walk](https://juliana-auzier.medium.com/minimiza%C3%A7%C3%A3o-de-func%C3%A3o-utilizando-random-walk-c85490035373)
 - [Como fazer Web Scraping com Python](https://juliana-auzier.medium.com/como-fazer-web-scraping-com-python-9d52339293e8)
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 </br>
 <h3 align="left">🔗 Find me:</h3>
 <p align="left">
